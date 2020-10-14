@@ -1,0 +1,2 @@
+#### CLUSTER MEMBRESIA RFM
+Segmentación por características de abandono y persistencia en membresía de servicios para el área del marketing y la toma de decisiones, las características que conforman esta data están expuestas dentro del cuaderno del proyecto. Cuenta con dos partes, la primera parte se realiza un análisis enfocado al marketing para la obtención de variables., segunda parte se realiza Machine Learning para el clúster por diferentes métricas y comparacion de algoritmos
