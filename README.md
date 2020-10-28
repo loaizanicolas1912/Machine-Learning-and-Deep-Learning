@@ -12,3 +12,6 @@ Cuadernos con las líneas de código usadas en el desarrollo de proyectos y comp
 
 ### NLP-TEXT MINING
 Proyectos propios de análisis de texto como lo son comparación de documentos, análisis de sentimientos para texto y para grabaciones de llamadas por medio de diferentes librerías y técnicas descritas en los cuadernos
+
+### COMPUTER VISION
+Se encuentran todos los proyectos para reconocimiento facial, reconocimiento de objetos entre otros.
