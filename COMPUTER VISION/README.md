@@ -1,1 +1,1 @@
-![](Imagenes/sin.jpeg)
+![mascarilla](Imagenes/sin.jpeg)
