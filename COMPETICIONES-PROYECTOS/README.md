@@ -4,8 +4,6 @@ Hackathon para la aplicación de habilidades en ciencia de datos y aprendizaje a
 #### COMPETICION AGRICULTURA
 Problema relacionado a la agricultura, para este problema se hace uso de algoritmos de clasificación para diferentes variables con respecto a cultivo y características de fertilidad del terreno para determinar estado y calidad después del uso de pesticidas para una temporada de siembra
 
-#### COMPETICION DATASOURCE
-Competencia para predecir o estimar el precio de una vivienda en Colombia y Argentina para la optimización de toma de decisiones para la adquisición de casa, inversión o bienes raíces. Estimación de valor de vivienda por medio de modelos de aprendizaje automático con respecto a características demográficas y propias de los inmuebles
 
 #### Retail Store
 Recolección de datos de ventas de 2013 para 1559 productos de 10 tiendas de diferentes ciudades los cuales comprenden diferentes atributos para cada tienda o producto. Esta competición tiene como objetivo crear un modelo de aprendizaje automático para la predicción de ventas de cada producto en un punto determinado 
