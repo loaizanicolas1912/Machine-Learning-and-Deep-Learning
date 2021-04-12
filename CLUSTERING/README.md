@@ -1,5 +1,5 @@
-#### CLUSTER MEMBRESIA RFM
-Segmentación por características de abandono y persistencia en membresía de servicios para el área del marketing y la toma de decisiones, las características que conforman esta data están expuestas dentro del cuaderno del proyecto. Cuenta con dos partes, la primera parte se realiza un análisis enfocado al marketing para la obtención de variables., segunda parte se realiza Machine Learning para el clúster por diferentes métricas y comparacion de algoritmos
+#### CLUSTER MEMBERSHIP RFM
+Segmentation by characteristics of abandonment and persistence in membership of services for the area of marketing and decision-making, the characteristics that make up this data are exposed within the project notebook. It has two parts, the first part is an analysis focused on marketing to obtain variables, the second part is performed Machine Learning for the cluster by different metrics and algorithm comparison
 
-#### CLUSTER TRANSACCIONES BANCARIAS
-Segmentación para clientes con permanencia en tarjeta de crédito, variables que conforman parte del manejo de esta con sus valores con respecto a las transacciones realizadas y su posterior agrupación para un análisis visual y explicativo de comportamiento.
+#### BANK TRANSACTIONS CLUSTER
+Segmentation for customers with a credit card permanence, variables that make up part of the management of this with their values with respect to the transactions carried out and their subsequent grouping for a visual and explanatory behavior analysis.
