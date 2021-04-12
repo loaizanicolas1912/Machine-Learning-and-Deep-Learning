@@ -1,17 +1,15 @@
 ### Machine Learning Portafolio
-Portafolio donde se incluyen mis proyectos personales en ciencia de datos para el manejo de destrezas y habilidades, competencias en las cuales he participado con sus posicionamientos y proyectos de pasatiempos para visualización. Este portafolio esta compuesto por
+Portfolio that includes my personal projects in data science for the management of skills and abilities, competitions in which they participated with their positioning and hobby projects for visualization.
 
-### ANALISIS GRAFICO
-En este se encuentran los proyectos de los cuales se hace visualización de variables relacionadas con temáticas cercanas para la expresión de ideas y conceptos
 
 ### CLUSTERING
-Proyectos de segmentación de clientes correspondiente a variables y características de las cuales están compuestos para una asignación de grupos rápida y eficaz con su respectivo análisis final e interpretación de resultados
+Client segmentation projects corresponding to variables and characteristics of which they are composed for a quick and efficient group assignment with their respective final analysis and interpretation of results.
 
-### COMPETICIONES - PROYECTOS
-Cuadernos con las líneas de código usadas en el desarrollo de proyectos y competiciones de diferentes plataformas, código simple y rápido para análisis de diferentes algoritmos con sus resultados y posiciones alcanzadas al igual que explicación de los proceso o conclusiones logradas
+### COMPETITIONS - PROJECTS
+Notebooks with the lines of code used in the development of projects and competitions of different platforms, simple and fast code for the analysis of different algorithms with their results and positions reached as well as an explanation of the processes or conclusions reached
 
 ### NLP-TEXT MINING
-Proyectos propios de análisis de texto como lo son comparación de documentos, análisis de sentimientos para texto y para grabaciones de llamadas por medio de diferentes librerías y técnicas descritas en los cuadernos
+Own text analysis projects such as document comparison, sentiment analysis for text and for call recordings through different libraries and techniques described in the notebooks
 
 ### COMPUTER VISION
-Se encuentran todos los proyectos para reconocimiento facial, reconocimiento de objetos entre otros.
+Development of computational vision projects, there are projects such as facial recognition, object recognition, location, segmentation among others
