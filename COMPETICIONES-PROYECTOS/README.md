@@ -1,9 +1,9 @@
 #### BANK_FINAL_COMPETICION
-Hackathon para la aplicación de habilidades en ciencia de datos y aprendizaje automático para resolver un problema en el sector bancario. Este problema hace uso de algoritmos para la clasificación y estimación de tasas de interés para un solicitante de préstamo dado su historial y características para factores de fijación de precios basada en el riesgo
+Hackathon for the application of skills in data science and machine learning to solve a problem in the banking sector. This problem makes use of algorithms for the classification and estimation of interest rates for a loan applicant given its history and characteristics for risk-based pricing factors.
 
-#### COMPETICION AGRICULTURA
-Problema relacionado a la agricultura, para este problema se hace uso de algoritmos de clasificación para diferentes variables con respecto a cultivo y características de fertilidad del terreno para determinar estado y calidad después del uso de pesticidas para una temporada de siembra
+#### AGRICULTURE COMPETITION
+Problem related to agriculture, for this problem classification algorithms are used for different variables with respect to cultivation and soil fertility characteristics to determine state and quality after the use of pesticides for a planting season
 
 
 #### Retail Store
-Recolección de datos de ventas de 2013 para 1559 productos de 10 tiendas de diferentes ciudades los cuales comprenden diferentes atributos para cada tienda o producto. Esta competición tiene como objetivo crear un modelo de aprendizaje automático para la predicción de ventas de cada producto en un punto determinado 
+2013 sales data collection for 1559 products from 10 stores in different cities, which comprise different attributes for each store or product. This competition aims to create a machine learning model for the prediction of sales of each product at a certain point
