@@ -1,9 +1,8 @@
-#### ANALISIS DE SENTIMIENTO LLAMADAS
-Este proyecto consta de 20 audios recolectados de llamadas para calificación de servicio de instalación de servicios de internet , los cuales son reprocesados y recortados para su posterior transformación a texto, dicho esto se realiza en análisis de sentimiento por medio de diferentes librerías y técnicas
+#### SENTIMENT ANALYSIS CALLS
+This project consists of 20 audios collected from calls for qualification of internet service installation service, which are reprocessed and cut for later transformation to text, said this is done in sentiment analysis through different libraries and techniques
 
 #### E-COMMERCE CLOTHING
-Análisis de sentimiento para reseñas de productos en una E-Commerce, con respecto a las reseñas se crea un algoritmo que determine en base al texto cual posible calificación de otorgara al producto o si este será recomendado o no
+Sentiment analysis for product reviews in an E-Commerce, with respect to the reviews an algorithm is created that determines based on the text which possible rating will be given to the product or whether it will be recommended or not
 
-#### ESP Text Mining en documentos
-Uso de diferentes técnicas para el agrupamiento de palabras y oraciones dentro un documento para su posterior análisis sintética las cuales son usadas para comparación con otros documentos posibles, forma rápida de verificar temática de un texto y su respectivo agrupamiento  
-
+#### ESP Text Mining in documents
+Use of different techniques for the grouping of words and sentences within a document for subsequent synthetic analysis which are used for comparison with other possible documents, a quick way to verify the theme of a text and its respective grouping
